@@ -1,4 +1,4 @@
-# Program corresponding to flowchart named rainfall.jpeg
+# Program corresponding to flowchart in this site https://automatetheboringstuff.com/2e/images/000039.jpg
 print('Is raining? (Y)es or (N)o')
 answer = input()
 if answer == 'N':
