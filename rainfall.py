@@ -1,3 +1,4 @@
+# Program corresponding to flowchart named rainfall.jpeg
 print('Is raining? (Y)es or (N)o')
 answer = input()
 if answer == 'N':
