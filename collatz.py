@@ -1,4 +1,5 @@
 # The Collatz Sequence
+# Refer complete question at https://pastebin.com/ikCaANdm
 
 print('Enter your number:')
 
